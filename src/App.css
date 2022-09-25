@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+.Country-details{
+  border:3px solid pink;
+  background-color:skyblue;
+  margin:10px;
+}
